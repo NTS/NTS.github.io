@@ -7,12 +7,12 @@ layout: default
 ## <i class="icon-off"><b>⚑</b></i> {#personal}
 
 - [NaomiTerezaSalmon.net](http://NaomiTerezaSalmon.net "Website of Naomi Tereza Salmon")
-- [BarkingDogsUnited.com](http://BarkingDogsUnited.com "Artist Duo: Barking Dogs United")
 
 
 ## ⚒ {#work}
 
 - [Bauhaus-Uni](http://www.uni-weimar.de/gestaltung/lehrgebiete-personen/freie-kunst/naomi-tereza-salmon/ "Naomi Tereza Salmon's site with the Bauhaus-Uni Weimar")
+- [BarkingDogsUnited.com](http://BarkingDogsUnited.com "Artist Duo: Barking Dogs United")
 - [HumanDollz.com](http://HumanDollz.com "Barking Dogs United project: Human Dollz")
 - [KIOSK09.de](http://KIOSK09.de "KIOSK09 project curated by Naomi Tereza Salmon")
 - [be-an-artivist.net](http://be-an-artivist.net "project website for 'Simon says: take me by the word', the Master Thesis of Naomi Tereza Salmon")
