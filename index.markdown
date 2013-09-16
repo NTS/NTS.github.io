@@ -26,10 +26,7 @@ layout: default
 
 ### ♾ {#info}
 
-- CV: [Deutsch](cv/CV.NTS_de.pdf "Curriculum Vitae of Naomi Tereza Salmon")
-- Portfolio
-   [web](cv/MAPPE.NTS.is_de.min.pdf "Portfolio of Naomi Tereza Salmon, small PDF")
-   [print](cv/MAPPE.NTS.is_de.pdf "Portfolio of Naomi Tereza Salmon, print PDF")
-- [PhD
-Dissertation](http://phd.nts.is "Doctoral dissertation of Naomi Tereza Salmon, Web Publication")
+- [CV (German)](http://files.nts.is/cv/CV.NTS_de.pdf "Curriculum Vitae of Naomi Tereza Salmon")
+- [Portfolio (German)](http://files.nts.is/cv/MAPPE.NTS.is_de.min.pdf "Portfolio of Naomi Tereza Salmon, small PDF")
+- [PhD Dissertation](http://phd.nts.is "Doctoral dissertation of Naomi Tereza Salmon, Web Publication")
 
