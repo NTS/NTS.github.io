@@ -11,7 +11,7 @@ layout: default
 
 ## ⚒ {#work}
 
-- [Bauhaus-Uni](http://www.uni-weimar.de/gestaltung/lehrgebiete-personen/freie-kunst/naomi-tereza-salmon/ "Naomi Tereza Salmon's site with the Bauhaus-Uni Weimar")
+- [Bauhaus-Uni](http://www.uni-weimar.de/de/gestaltung/struktur/lehrgebiete-personen/freie-kunst/naomi-tereza-salmon/ "Naomi Tereza Salmon's site with the Bauhaus-Uni Weimar")
 - [BarkingDogsUnited.com](http://BarkingDogsUnited.com "Artist Duo: Barking Dogs United")
 - [HumanDollz.com](http://HumanDollz.com "Barking Dogs United project: Human Dollz")
 - [KIOSK09.de](http://KIOSK09.de "KIOSK09 project curated by Naomi Tereza Salmon")
