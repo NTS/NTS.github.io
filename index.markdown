@@ -20,7 +20,7 @@ layout: default
 
 ### ✍ {#contact}
 
-- <i class="icon-instagram"><b>instagram:</b></i> [@naomi_t_salmon](https://instagram.com/menschen_leer "Naomi Tereza Salmon on instagram")
+- <i class="icon-instagram"><b>instagram:</b></i> [@menschen_leer](https://instagram.com/menschen_leer "Naomi Tereza Salmon on instagram")
 - <i class="icon-twitter"><b>twitter:</b></i> [@en\_ti\_es](https://twitter.com/en_ti_es "Naomi Tereza Salmon on twitter")
 - <i class="icon-facebook-sign"><b>facebook:</b></i> [ntsalmon](https://www.facebook.com/ntsalmon "Naomi Tereza Salmon on Facebook")
 
