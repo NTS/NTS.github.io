@@ -1,10 +1,10 @@
 ---
 title: "NTS #stay@home ART ACADEMY"
 tagline:  
-layout: default
+layout: singlepage
 ---
 
-## Starting Monday, April 6th, I will offer* NTSprechstunde \o/
+## Starting Monday, April 6th, I will offer* NTSprechstunde <br>\o/
 
 > Remember the good old days, when we huddled together in an enclosed space and pitched project ideas?  
 > Do you need consultation or advice while working on your art?  
@@ -19,14 +19,14 @@ Everything will take place online in English, or by demand also in German and He
 I will be preparing a short registration form, but for now please express your interest by writing an email to [`sprechstunde@nts.is`](mailto:sprechstunde@nts.is)
 
 Looking forward to see you soon,  
-***NTS***
+NTS
 
-<small>*This offer is for free as long as we all #staythefuckathome</small>
-
-<small>\o/ - yes, there will be a Frabo / questionnaire</small>
+<small>*This offer is for free as long as we all #staythefuckathome<br>\o/ - yes, there will be a Frabo / questionnaire</small>
 
 ---
 
 Naomi Tereza Salmon (PhD)  
 Artist / Consulting  
 [nts.is](//nts.is)
+
+
