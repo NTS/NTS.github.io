@@ -1,5 +1,5 @@
 ---
-title: NTS #stay@home ART ACADEMY
+title: "NTS #stay@home ART ACADEMY"
 tagline:  
 layout: default
 ---
