@@ -1,5 +1,3 @@
-# 
-
 ---
 title: NTS #stay@home ART ACADEMY
 tagline:  
