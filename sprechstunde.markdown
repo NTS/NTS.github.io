@@ -6,8 +6,8 @@ layout: singlepage
 
 ## Starting Monday, April 6th, I will offer* NTSprechstunde <br>\o/
 
-> Remember the good old days, when we huddled together in an enclosed space and pitched project ideas?  
-> Do you need consultation or advice while working on your art?  
+> Remember the good old days, when we huddled together in an enclosed space and pitched project ideas?
+> Do you need consultation or advice while working on your art?
 > I am offering Interactive, social distanced online mentorship!
 
 I can begin with One-on-One sessions (via Skype/Facetime) immediately, 
