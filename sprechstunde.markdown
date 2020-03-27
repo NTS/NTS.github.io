@@ -1,5 +1,10 @@
-# NTS #stay@home ART ACADEMY
+# 
 
+---
+title: NTS #stay@home ART ACADEMY
+tagline:  
+layout: default
+---
 
 ## Starting Monday, April 6th, I will offer* NTSprechstunde \o/
 
