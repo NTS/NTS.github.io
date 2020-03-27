@@ -6,7 +6,7 @@ layout: singlepage
 
 <figure>
 <img src="https://user-images.githubusercontent.com/2242872/77789200-e045d400-7062-11ea-9988-bdcfcee9378f.png" width="50%" alt="NTS ACADEMY logo"/>
-  <figcaption>model of a NTS building for the city of Munroi, <a href="http://instagram.com/martinfink.munroi">Martin Fink</a>, 2016</figcaption>
+  <figcaption>Model of an NTS building made in MUNROI by <a href="http://instagram.com/martinfink.munroi">Martin Fink</a>, 2016</figcaption>
 </figure>
   
 ## Starting Monday, April 6th, I will offer* NTSprechstunde <br>\o/
