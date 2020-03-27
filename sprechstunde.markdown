@@ -15,7 +15,7 @@ layout: singlepage
 > Do you need consultation or advice while working on your art?
 > I am offering Interactive, social distanced online mentorship!
 
-I can begin with One-on-One sessions (via Skype/Facetime) immediately, 
+I'll begin with One-on-One sessions (via Skype/FaceTime/Jitsi/etc) immediately, 
 but there will also be the possibility of establishing group activities. 
 
 The format will depend entirely on your feedback and ideas – there are many tools out there but I first want to find out what we’ll be trying to achieve.
