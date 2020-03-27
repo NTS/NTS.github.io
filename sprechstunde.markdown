@@ -1,13 +1,29 @@
-
-## two
-
-### three
+# NTS #stay@home ART ACADEMY
 
 
-בחברה דמוקרטית המוזיאונים שיחקו ומשחקים תפקיד קריטי. כיום אנו לוקחים אותם כמובן מאליו, אך אל לשכוח שעד לפני כמה מאות שנים, אוספי אמנות היו בבעלות משפחות מלוכה או סוחרים עשירים ומעמד האוליגרכיה (מעמד שעושה היום קאמבק באמצעות מוזיאונים פרטיים שפותחים עשירי תבל). אוספים ציבוריים מספקים נגישות לאמנות לציבור הרחב, מאפשרים ליוצרים ואמנים ללמוד דרך היצירות והתערוכות המוצגות את אמצעי הביטוי של העבר, ובנוסף נותנים מקום לתצוגת אמנים עכשוויים. מוזיאונים הם אחד מהיסודות המרכזיים בתהליך התהוות הביטוי העצמי האמנותי והוויזואלי, והם מהווים עמוד תווך בפעילות של מדינה הרוצה להנגיש תרבות לכל אזרח. אלו תפקידיו המהותיים של המוזיאון כגוף מציג, על מבקריו ועל מברכיו.
+## Starting Monday, April 6th, I will offer* NTSprechstunde \o/
 
-Some more text.
+> Remember the good old days, when we huddled together in an enclosed space and pitched project ideas?  
+> Do you need consultation or advice while working on your art?  
+> I am offering Interactive, social distanced online mentorship!
 
-> And a quote
+I can begin with One-on-One sessions (via Skype/Facetime) immediately, 
+but there will also be the possibility of establishing group activities. 
 
-    even code
+The format will depend entirely on your feedback and ideas – there are many tools out there but I first want to find out what we’ll be trying to achieve.
+Everything will take place online in English, or by demand also in German and Hebrew.
+
+I will be preparing a short registration form, but for now please express your interest by writing an email to [`sprechstunde@nts.is`](mailto:sprechstunde@nts.is)
+
+Looking forward to see you soon,  
+***NTS***
+
+<small>*This offer is for free as long as we all #staythefuckathome</small>
+
+<small>\o/ - yes, there will be a Frabo / questionnaire</small>
+
+---
+
+Naomi Tereza Salmon (PhD)  
+Artist / Consulting  
+[nts.is](//nts.is)
