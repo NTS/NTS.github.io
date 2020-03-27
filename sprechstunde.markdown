@@ -4,6 +4,11 @@ tagline:
 layout: singlepage
 ---
 
+<figure>
+<img src="https://user-images.githubusercontent.com/2242872/77789200-e045d400-7062-11ea-9988-bdcfcee9378f.png" width="50%" alt="NTS ACADEMY logo"/>
+<figcaption>NTS Academy Building for the city of Munroi, Martin Fink, 2016</figcaption>
+</figure>
+  
 ## Starting Monday, April 6th, I will offer* NTSprechstunde <br>\o/
 
 > Remember the good old days, when we huddled together in an enclosed space and pitched project ideas?
