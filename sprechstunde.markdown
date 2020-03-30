@@ -4,6 +4,8 @@ tagline:
 layout: singlepage
 ---
 
+{::options parse_block_html="true" /}
+
 <figure>
 <img src="https://user-images.githubusercontent.com/2242872/77789200-e045d400-7062-11ea-9988-bdcfcee9378f.png" width="50%" alt="NTS ACADEMY logo"/>
   <figcaption>Model of an NTS building made in MUNROI by <a href="http://instagram.com/martinfink.munroi">Martin Fink</a>, 2016</figcaption>
@@ -27,6 +29,8 @@ Looking forward to see you soon,
 NTS
 
 ---
+
+<section id="faq">
 
 ### FAQ
 
@@ -65,6 +69,7 @@ Discourse Forum, Basecamp
 
 moodle, ???
 
+</section>
 
 ---
 
