@@ -26,7 +26,45 @@ I will be preparing a short registration form, but for now please express your i
 Looking forward to see you soon,  
 NTS
 
-<small>*This offer is for free as long as we all #staythefuckathome<br>\o/ - yes, there will be a Frabo / questionnaire</small>
+---
+
+### FAQ
+
+#### Who is this for?
+
+Artist, Art students 
+that are not currently enrolled in an art university (that still works). This offer is mostly for those that do not already have menthorship available to them. 
+
+#### What does it cost?
+
+Nothing! This offer is for free as long as we all #staythefuckathome
+
+#### Will there be a frabo/questionaire?
+
+yes \o/
+
+#### What tools could be used
+
+Preferably self-hosted, open source software to prevent community lock-in, but for specialized tools we will use commercial ones if that is the best option. 
+No Facebook groups, Whatsapp, Telegram, Slack, Discord.
+
+##### videochat 
+
+Jitsi Meet, Zoom, Skype, FaceTime
+
+##### group videochat/videoconference
+
+Zoom, Jitsi Meet
+
+##### group organisation/communication
+
+Discourse Forum, Basecamp
+
+
+##### education/courseware
+
+moodle, ???
+
 
 ---
 
