@@ -13,7 +13,7 @@ layout: singlepage
 ## GET Ready@home<br>Orientation  אוריינטציה  Orientierungswoche
 
 | Monday / יום ב׳ / Mo | Consulting 1:1 | ייעוץ אישי 1:1 | Konsultationen 1:1 |
-| Tuesday / יום ג׳ / Di	Project | פרוייקט | Projekt |
+| Tuesday / יום ג׳ / Di |Project | פרוייקט | Projekt |
 | Wednesday / יום ד׳ / Mi. | Seminar | סמינר | Seminar |
 | Thursday / יום ה׳ / Do. | Practical course | קורס מעשי | Fachkurs |
 | Friday / יום ו׳ / Fri. | Colloquium | קולוקוויום | Kolloquium |
