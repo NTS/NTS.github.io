@@ -12,13 +12,6 @@ layout: singlepage
 
 {::options parse_block_html="true" /}
 
-<div style="float: right">
-This is wrapped in a para.
-</div>
-<p>
-This can contain only *span* level elements.
-</p>
-
 ## GET Ready@home<br>Orientation  אוריינטציה  Orientierungswoche
 
 |:---------------------|:---------------|-------------:|:------------------|
@@ -32,7 +25,7 @@ This can contain only *span* level elements.
 
 ---
 
-<div lang=en>
+<div lang="en">
 
 ENGLISH
 
@@ -45,7 +38,7 @@ ENGLISH
 
 </div>
 
-<div lang=he dir=rtl>
+<div lang="he" dir="rtl">
 
 עברית
 
@@ -58,7 +51,7 @@ ENGLISH
 
 </div>
 
-<div lang=de>
+<div lang="de">
 
 DEUTSCH
 
