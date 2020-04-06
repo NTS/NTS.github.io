@@ -19,7 +19,7 @@ layout: singlepage
 | Thursday / יום ה׳ / Do.  | Practical course | קורס מעשי | Fachkurs |
 | Friday / יום ו׳ / Fri.  | Colloquium | קולוקוויום | Kolloquium |
 | Always /תמיד / Immer  | Mensa | מנזה | Mensa |
-{: .table .table-bordered .table-condensed}
+{: .table .table-bordered .table-condensed rules="groups"}
 
 
 ## Starting Monday, April 6th, I will offer* NTSprechstunde <br>\o/
