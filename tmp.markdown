@@ -78,7 +78,7 @@ DEUTSCH
 
 ---
 
-## Starting Monday, April 6th, I will offer* NTSprechstunde <br>\o/
+## NTSprechstunde <br>\o/
 
 > Remember the good old days, when we huddled together in an enclosed space and pitched project ideas?
 > Do you need consultation or advice while working on your art?
