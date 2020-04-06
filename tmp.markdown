@@ -12,9 +12,9 @@ layout: singlepage
 
 
 
-## GET Ready@home<br>Orientation  אוריינטציה  Orientierungswoche
+## GET Ready@home<br>Orientation / אוריינטציה / Orientierungswochen
 
-> Please register אנא הרשמו Bitte registrieren  
+> Please register / אנא הרשמו / Bitte registrieren  
 > [`sprechstunde@nts.is`](mailto:sprechstunde@nts.is)
 
 ---
