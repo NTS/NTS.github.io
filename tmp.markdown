@@ -21,6 +21,41 @@ layout: singlepage
 | Always /תמיד / Immer  | Mensa | מנזה | Mensa |
 {: .table .table-bordered .table-condensed rules="groups"}
 
+---
+
+
+ENGLISH
+
+1. Consulting 1:1 - register to get a slot and a Questionnaire:  sprechstunde@nts.is
+2. Project: „Self Made Art“ - Art imitates Life. When in confinement, try to find objects and inspiration around you and give it the right media or context to become Art. 
+3. Practical Course: ONLINE APPEARANCE - How does my Website look? Do I need a Blog? how to create a portfolio? Is Instagram also dead? We find out what is best for you
+4. Seminar: Read and write in a group.
+5. Colloquium: My Free Project, Development, Studio visits
+6. Mensa: a place for exchange between everybody, incl. a recipe exchange corner!!!
+
+
+עברית
+
+1. הנחיה אחד על אחד, נא להירשם לקבלת שאלון ותיאום פגישה  sprechstunde@nts.is
+2. פרוייקט: ״אמנות עצמונית״ - האמנות מחקה את החיים, וגם אם האמן/ית נמצא/ת בהסגר, אפשר למצוא נושאים מעניינים בין ארבע קירות ולהתאים את המדיום והקונטקסט הנכונים
+3. קורס מעשי: ״איך אני נראה/ת אונליין?״ -איך נראה דף האינטרנט שלי? האם אני צריך/ה בלוג? מה עם פורטפוליו? האם איסטגרם מת?
+4. סמינר קרוא וכתוב: הצגת וקריאת טקסטים בקבוצה, נתינת וקבלת עצות.
+5. קולוקוויום: הפרוייקט שלי - הצגת חומרים, שאילת שאלות וקבלת פידבק בקבוצה, ביקור סטודיו וירטואלי.
+6. מנזה: מקום לשתות קפה להחליף אינפורמציה לינקים ומתכונים
+
+
+DEUTSCH
+
+1. Konsultationen 1:1 - Melde dich an und trage dich in eine Sprechstunde ein (und bekomme eventuell einen Frabo) unter sprechstunde@nts.is 
+2. Projekt: „Selbstgemachte Kunst“ - Kunst imitiert das Leben. Wenn Ausgang nicht möglich ist, finde Objekte und Inspiration in deinem Umfeld und suche ein passendes Medium oder den richtigen Kontext aus um Kunst daraus zu machen.
+3. Fachkurs: ONLINE DASEIN - Wie sieht mein Website aus? Brauche ich einen Blog? Wie mache ich ein Portfolio? Ist Instagram auch schon tot? Wir finden raus, was dir am besten passt!
+4. Seminar: Lesen und schreiben in einer Gruppe. 
+5. Kolloquium: Mein Freies Projekt - Präsentationen, Kritik, Entwicklung, Atelierbesuch.
+6. Mensa: Ein Ort zum Austausch für Alle, Links, Quellen, Rezepte!!!
+
+
+
+---
 
 ## Starting Monday, April 6th, I will offer* NTSprechstunde <br>\o/
 
