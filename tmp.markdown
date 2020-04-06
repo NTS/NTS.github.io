@@ -12,6 +12,13 @@ layout: singlepage
 
 {::options parse_block_html="true" /}
 
+<div>
+This is wrapped in a para.
+</div>
+<p>
+This can contain only *span* level elements.
+</p>
+
 ## GET Ready@home<br>Orientation  אוריינטציה  Orientierungswoche
 
 |:---------------------|:---------------|-------------:|:------------------|
