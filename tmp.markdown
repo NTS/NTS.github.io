@@ -10,6 +10,8 @@ layout: singlepage
   <figcaption>Model of an NTS building made in MUNROI by <a href="http://instagram.com/martinfink.munroi">Martin Fink</a>, 2016</figcaption>
 </figure>
 
+{::options parse_block_html="true" /}
+
 ## GET Ready@home<br>Orientation  אוריינטציה  Orientierungswoche
 
 |:---------------------|:---------------|-------------:|:------------------|
