@@ -12,7 +12,7 @@ layout: singlepage
 
 {::options parse_block_html="true" /}
 
-<div>
+<div style="float: right">
 This is wrapped in a para.
 </div>
 <p>
