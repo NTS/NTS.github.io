@@ -18,7 +18,7 @@ layout: singlepage
 | Wednesday / יום ד׳ / Mi.  | Seminar | סמינר | Seminar |
 | Thursday / יום ה׳ / Do.  | Practical course | קורס מעשי | Fachkurs |
 | Friday / יום ו׳ / Fri.  | Colloquium | קולוקוויום | Kolloquium |
-| Always /תמיד / Immer  | Mensa | מנזה | Mensa |
+| Always / תמיד / Immer  | Mensa | מנזה | Mensa |
 {: .table .table-bordered .table-condensed rules="groups"}
 
 ---
