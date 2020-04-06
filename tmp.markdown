@@ -24,6 +24,7 @@ layout: singlepage
 ---
 
 <section lang=en>
+
 ENGLISH
 
 1. Consulting 1:1 - register to get a slot and a Questionnaire:  sprechstunde@nts.is
@@ -32,9 +33,11 @@ ENGLISH
 4. Seminar: Read and write in a group.
 5. Colloquium: My Free Project, Development, Studio visits
 6. Mensa: a place for exchange between everybody, incl. a recipe exchange corner!!!
+
 </section>
 
 <section lang=he dir=rtl>
+
 עברית
 
 1. הנחיה אחד על אחד, נא להירשם לקבלת שאלון ותיאום פגישה  sprechstunde@nts.is
@@ -43,9 +46,11 @@ ENGLISH
 4. סמינר קרוא וכתוב: הצגת וקריאת טקסטים בקבוצה, נתינת וקבלת עצות.
 5. קולוקוויום: הפרוייקט שלי - הצגת חומרים, שאילת שאלות וקבלת פידבק בקבוצה, ביקור סטודיו וירטואלי.
 6. מנזה: מקום לשתות קפה להחליף אינפורמציה לינקים ומתכונים
+
 </section>
 
-<section lang=de>  
+<section lang=de>
+
 DEUTSCH
 
 1. Konsultationen 1:1 - Melde dich an und trage dich in eine Sprechstunde ein (und bekomme eventuell einen Frabo) unter sprechstunde@nts.is 
